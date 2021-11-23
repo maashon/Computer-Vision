@@ -1,0 +1,13 @@
+﻿  Plane fitting.cpp
+D:\Users\Parsa\Desktop\Study materials\3D Computer vision practice\plane fitting\Plane fitting\Plane fitting\Plane fitting.cpp(30,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Users\Parsa\Desktop\Study materials\3D Computer vision practice\plane fitting\Plane fitting\Plane fitting\Plane fitting.cpp(163,11): warning C4244: 'return': conversion from 'double' to 'size_t', possible loss of data
+D:\Users\Parsa\Desktop\Study materials\3D Computer vision practice\plane fitting\Plane fitting\Plane fitting\Plane fitting.cpp(201,11): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+D:\Users\Parsa\Desktop\Study materials\3D Computer vision practice\plane fitting\Plane fitting\Plane fitting\Plane fitting.cpp(315,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Users\Parsa\Desktop\Study materials\3D Computer vision practice\plane fitting\Plane fitting\Plane fitting\Plane fitting.cpp(322,25): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Users\Parsa\Desktop\Study materials\3D Computer vision practice\plane fitting\Plane fitting\Plane fitting\Plane fitting.cpp(323,25): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Users\Parsa\Desktop\Study materials\3D Computer vision practice\plane fitting\Plane fitting\Plane fitting\Plane fitting.cpp(324,25): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Plane fitting.vcxproj -> D:\Users\Parsa\Desktop\Study materials\3D Computer vision practice\plane fitting\Plane fitting\x64\Debug\Plane fitting.exe

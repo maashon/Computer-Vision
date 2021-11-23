@@ -1,0 +1,31 @@
+﻿  Line Fitting.cpp
+D:\Users\Parsa\Desktop\Study materials\3D Computer vision practice\line fitting project\Line Fitting\Line Fitting\Line Fitting.cpp(19,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Users\Parsa\Desktop\Study materials\3D Computer vision practice\line fitting project\Line Fitting\Line Fitting\Line Fitting.cpp(86,42): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+D:\Users\Parsa\Desktop\Study materials\3D Computer vision practice\line fitting project\Line Fitting\Line Fitting\Line Fitting.cpp(126,20): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+D:\Users\Parsa\Desktop\Study materials\3D Computer vision practice\line fitting project\Line Fitting\Line Fitting\Line Fitting.cpp(126,20): message : consider using '%zd' in the format string
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\include\xmemory(693,1): warning C4267: 'initializing': conversion from 'size_t' to '_Objty', possible loss of data
+          with
+          [
+              _Objty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\include\vector(682): message : see reference to function template instantiation 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,size_t&>(_Alloc &,_Objty *const ,size_t &)' being compiled
+          with
+          [
+              _Alloc=std::allocator<int>,
+              _Ty=int,
+              _Objty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\include\vector(687): message : see reference to function template instantiation 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,size_t&>(_Alloc &,_Objty *const ,size_t &)' being compiled
+          with
+          [
+              _Alloc=std::allocator<int>,
+              _Ty=int,
+              _Objty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\include\vector(700): message : see reference to function template instantiation 'void std::vector<int,std::allocator<int>>::_Emplace_back_with_unused_capacity<size_t&>(size_t &)' being compiled
+D:\Users\Parsa\Desktop\Study materials\3D Computer vision practice\line fitting project\Line Fitting\Line Fitting\Line Fitting.cpp(118): message : see reference to function template instantiation 'void std::vector<int,std::allocator<int>>::emplace_back<size_t&>(size_t &)' being compiled
+  Line Fitting.vcxproj -> D:\Users\Parsa\Desktop\Study materials\3D Computer vision practice\line fitting project\Line Fitting\x64\Debug\Line Fitting.exe
