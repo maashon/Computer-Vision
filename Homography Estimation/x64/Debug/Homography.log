@@ -1,2 +1,44 @@
 ﻿  Homography.cpp
+D:\Users\Parsa\Desktop\Study materials\3D Computer vision practice\Homography\Homography\Homography.cpp(41,71): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Users\Parsa\Desktop\Study materials\3D Computer vision practice\Homography\Homography\Homography.cpp(41,43): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Users\Parsa\Desktop\Study materials\3D Computer vision practice\Homography\Homography\Homography.cpp(86,41): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Users\Parsa\Desktop\Study materials\3D Computer vision practice\Homography\Homography\Homography.cpp(86,41): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+D:\Users\Parsa\Desktop\Study materials\3D Computer vision practice\Homography\Homography\Homography.cpp(150,30): warning C4244: '=': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+D:\Users\Parsa\Desktop\Study materials\3D Computer vision practice\Homography\Homography\Homography.cpp(151,30): warning C4244: '=': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+D:\Users\Parsa\Desktop\Study materials\3D Computer vision practice\Homography\Homography\Homography.cpp(158,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Users\Parsa\Desktop\Study materials\3D Computer vision practice\Homography\Homography\Homography.cpp(159,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Users\Parsa\Desktop\Study materials\3D Computer vision practice\Homography\Homography\Homography.cpp(199,42): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Users\Parsa\Desktop\Study materials\3D Computer vision practice\Homography\Homography\Homography.cpp(237,36): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+D:\Users\Parsa\Desktop\Study materials\3D Computer vision practice\Homography\Homography\Homography.cpp(238,36): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+D:\Users\Parsa\Desktop\Study materials\3D Computer vision practice\Homography\Homography\Homography.cpp(240,36): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+D:\Users\Parsa\Desktop\Study materials\3D Computer vision practice\Homography\Homography\Homography.cpp(241,36): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+D:\Users\Parsa\Desktop\Study materials\3D Computer vision practice\Homography\Homography\Homography.cpp(290,11): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
   Homography.vcxproj -> D:\Users\Parsa\Desktop\Study materials\3D Computer vision practice\Homography\Homography\x64\Debug\Homography.exe
